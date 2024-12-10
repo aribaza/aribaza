@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**aribaza/aribaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm **Ariadna Bazaga Pozas**, a Biomedical Engineering student passionate about technology and full stack web development.  
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** A delivery planning system integrating smart optimization for logistics.  
+- 🌱 **I’m currently learning:** Advanced algorithms for medical imaging, healthtech innovation, and how to optimize training for a 10k run!  
+- 👯 **I’m looking to collaborate on:** Healthtech projects, machine learning for medical applications, and creative automation tools.  
+- 💬 **Ask me about:** My Master's degree project, full-stack web development, or my dog Grimm.  
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/aribazagapozas) or email at aribazaga@gmail.com.  
+- 😄 **Pronouns:** She/Her  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aribaza)](https://github.com/aribaza/github-readme-stats)
