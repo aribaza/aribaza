@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-Welcome to my GitHub! I'm **Ariadna Bazaga Pozas**, a Biomedical Engineering student passionate about technology and full stack web development.  
+Welcome to my GitHub! I'm **Ariadna Bazaga Pozas**, a Biomedical Engineering student passionate about technology and full-stack web development.  
 
 - 🔭 **I’m currently working on:** A delivery planning system integrating smart optimization for logistics.  
 - 🌱 **I’m currently learning:** Advanced algorithms for medical imaging, healthtech innovation, and how to optimize training for a 10k run!  
@@ -9,5 +9,6 @@ Welcome to my GitHub! I'm **Ariadna Bazaga Pozas**, a Biomedical Engineering stu
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/aribazagapozas) or email at aribazaga@gmail.com.  
 - 😄 **Pronouns:** She/Her  
 
-## My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aribaza)](https://github.com/aribaza/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribaza" width="40%" />
+</div>
